@@ -100,7 +100,7 @@ The system is built using RAG principles with embeddings, vector search, and an 
    ```bash
 
 
-   git clone https://github.com/dhairya48ML/RAG_chatbot_for_Restaurant.git
+  gh repo clone chaitan12/Restaurant-Chatbot-using-RAG
 
 
    cd restaurant-rag-chatbot
